@@ -27,7 +27,7 @@
 
 <p align="center">
   <a href="./DTproject/README.md">
-    <img src="https://img.shields.io/badge/📋_Prototype_Summary-View_Summary-2ea44f?style=for-the-badge" alt="Prototype Summary">
+    <img src="https://img.shields.io/badge/📋_Prototype_Summary-View_Summary-2ea44f?style=for-the-badge" alt="Test Summary">
   </a>
 </p>
 
