@@ -1,4 +1,4 @@
-# Test Script: การทดสอบใช้งาน Prototype v1 (บอร์ดวัยเก๋าแบบยึดมั่น)
+# Test Script: การทดสอบใช้งาน Prototype v2 (บอร์ดวัยเก๋าแบบอิสระ)
 
 *สวนธนบุรีรมย์ — Design Thinking Project*
 
